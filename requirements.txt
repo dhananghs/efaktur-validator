@@ -10,4 +10,3 @@ opencv-python
 # Note: pyzbar requires zbar shared library to be installed on the system
 # For macOS: brew install zbar
 # For Ubuntu/Debian: sudo apt-get install libzbar0
-# For CentOS/RHEL: sudo yum install zbar

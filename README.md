@@ -31,7 +31,7 @@ This service addresses a critical pain point in Indonesia's B2B ecosystem where 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd online-pajak
+cd efaktur-pajak
 ```
 
 2. Install system dependencies (required for QR code processing and OCR):
@@ -41,9 +41,6 @@ brew install zbar tesseract tesseract-lang
 
 # Ubuntu/Debian
 sudo apt-get install libzbar0 tesseract-ocr tesseract-ocr-ind
-
-# CentOS/RHEL
-sudo yum install zbar tesseract tesseract-langpack-ind
 
 # Windows
 # Download and install from: https://github.com/NaturalHistoryMuseum/pyzbar#windows
